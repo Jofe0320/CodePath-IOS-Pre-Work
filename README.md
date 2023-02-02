@@ -6,7 +6,7 @@ This is a simple app develop on Swift. It prompts the user for some input an the
 
 App Walk-though!
 
-[Uploading Screen_Recording_2023-02-02_at_12_53_40_PM_AdobeExpress.gif…]()
+https://drive.google.com/file/d/1lLno0LC7wnY_9RL7W_4ct9XBzgeXDZsu/view?usp=sharing
 
 
 
