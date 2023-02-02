@@ -5,8 +5,7 @@ App Description
 This is a simple app develop on Swift. It prompts the user for some input an the generates a alert with a introduction of the user. 
 
 App Walk-though!
-
-https://drive.google.com/file/d/1lLno0LC7wnY_9RL7W_4ct9XBzgeXDZsu/view?usp=sharing
+https://drive.google.com/file/d/1UGYExjt11qNxhBu2AhoX73DsPJVvAH3t/view?usp=sharing
 
 
 
